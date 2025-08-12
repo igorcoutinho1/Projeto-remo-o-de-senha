@@ -1,0 +1,52 @@
+Instalando e Usando o Desbloqueador Excel
+
+-----------------------------------------
+1. Pré-requisitos
+-----------------------------------------
+Para rodar este aplicativo, você precisa ter o Python instalado na sua máquina (versão 3.6 ou superior é recomendada). Além disso, as seguintes bibliotecas Python são necessárias:
+
+- tkinter
+- msoffcrypto
+- openpyxl
+- qrcode
+- Pillow (PIL)
+- pyperclip
+
+Você pode instalar todas elas de uma vez usando o pip, o gerenciador de pacotes do Python. Abra o terminal ou prompt de comando e execute:
+pip install msoffcrypto-tool openpyxl qrcode Pillow pyperclip
+
+-----------------------------------------
+2. Instalação do Aplicativo
+-----------------------------------------
+1. Faça o download do arquivo 'protecao.py' do repositório do GitHub.
+2. Salve o arquivo em uma pasta de sua preferência.
+
+-----------------------------------------
+3. Como Usar o Aplicativo
+-----------------------------------------
+1. Abra o terminal ou prompt de comando.
+2. Navegue até a pasta onde você salvou o arquivo 'protecao.py'.
+3. Execute o script com o seguinte comando:
+   python protecao.py
+
+4. Uma janela de login será exibida. Você precisará de uma senha para prosseguir. As senhas permitidas são:
+   - admin2025@
+   - Administrador2025@
+   - Us3r2025@
+
+5. Após o login, a janela principal do "Desbloqueador Excel" será aberta.
+
+6. Selecione a opção desejada:
+   - "🔑 Força Bruta": Tenta descobrir a senha de proteção do arquivo Excel. Você pode fornecer informações adicionais como nomes, CPFs e data de nascimento para otimizar o processo.
+   - "📝 Remover Edição": Remove a proteção de edição da planilha, permitindo que você altere o conteúdo.
+   - "♻ Zerar Repositórios": Limpa os arquivos de senhas descobertas e descartadas.
+
+7. O arquivo desbloqueado será salvo na mesma pasta com o nome "_desprotegido.xlsx" ou "_livre.xlsx".
+
+-----------------------------------------
+4. Suporte
+-----------------------------------------
+Se você gostou da ferramenta e deseja apoiar o projeto, use a chave Pix disponível na tela de encerramento do aplicativo.
+
+-----------------------------------------
+Aviso: Use esta ferramenta de forma ética e legal.
