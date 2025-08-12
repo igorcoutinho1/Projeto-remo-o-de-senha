@@ -19,7 +19,8 @@ pip install msoffcrypto-tool openpyxl qrcode Pillow pyperclip
 2. Instalação do Aplicativo
 -----------------------------------------
 1. Faça o download do arquivo 'protecao.py' do repositório do GitHub.
-2. Salve o arquivo em uma pasta de sua preferência.
+2. https://mega.nz/file/OpQ0TL4S#SmtjJj6bbQ-oS38I8XapPmWPOMmCgOfjpkTxitpUPZc
+3. Salve o arquivo em uma pasta de sua preferência.
 
 -----------------------------------------
 3. Como Usar o Aplicativo
@@ -49,4 +50,5 @@ pip install msoffcrypto-tool openpyxl qrcode Pillow pyperclip
 Se você gostou da ferramenta e deseja apoiar o projeto, use a chave Pix disponível na tela de encerramento do aplicativo.
 
 -----------------------------------------
+
 Aviso: Use esta ferramenta de forma ética e legal.
