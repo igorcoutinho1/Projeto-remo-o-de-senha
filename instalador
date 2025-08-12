@@ -1,0 +1,19 @@
+# Proteção com PIX QR Code
+
+Aplicativo em Python que exibe uma interface de proteção e permite apoiar o projeto via **PIX Copia e Cola** com QR Code gerado na hora.  
+Funciona tanto em modo script quanto como executável.
+
+---
+
+## 🚀 Download do Executável
+Se você não quiser instalar Python, baixe o `.exe` já pronto aqui:
+
+🔗 [Baixar Executável no Mega](https://mega.nz/file/OpQ0TL4S#SmtjJj6bbQ-oS38I8XapPmWPOMmCgOfjpkTxitpUPZc)
+
+Basta baixar e executar o arquivo.  
+> Obs.: O Windows pode exibir um alerta de segurança porque o aplicativo não possui assinatura digital.
+
+---
+
+## Senha
+A senha esta dentro do arquivo para uso do aplicativo
